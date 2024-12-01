@@ -70,14 +70,9 @@ Matplotlib for providing easy-to-use data visualization tools.
 Next.js for building fast and interactive web applications.
 markdown
 
-### Summary of the README Structure:
-- **Overview**: A general description of the project and what it does.
-- **Features**: Lists the key functionalities of the system.
-- **Technologies Used**: Describes the core technologies and frameworks used in the project.
-- **Installation & Setup**: Provides step-by-step instructions on how to set up the project locally.
-- **Future Features**: Mentions the potential upcoming features.
-- **Contributing**: Invites others to contribute to the project.
-- **License**: Indicates the type of license for the project.
-- **Acknowledgements**: Credits to the tools and technologies used in the project.
-
-This should provide a good starting point for documenting your Smart Garbage System project.
+### Contributors
+Aayisha Noora J - Full stack Developer + Machine Learning + Data Analytics
+Bhuvaneshwari M - Full stack Developer + Machine Learning + Data Analytics
+Kamrudhin N - IoT and Embedded C Developer
+Pavithra S - IoT and Embedded C Developer
+B E Shrinithy - Research and Presentation
