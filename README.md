@@ -27,7 +27,8 @@ The **web application** is built with **Next.js** and provides an interactive ma
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/aayishajalal/smart-garbage-system.git
-cd smart-garbage-system```
+cd smart-garbage-system
+```
 
 **### 2. Setting Up the IoT Device (ESP32)**
 Install the required drivers for ESP32.
@@ -36,19 +37,21 @@ Ensure the IR sensors are connected to the board for sensing data.
 Configure Firebase to store the data received from the IoT devices.
 **### 3. Frontend Setup (Next.js)**
 Install dependencies:
-bash
+``` bash
 Copy code
 npm install
+```
 Run the development server:
-bash
+```bash
 Copy code
 npm run dev
-
+```
 **### 4. Python Analytics (Matplotlib)**
 Install required Python libraries:
-bash
+```bash
 Copy code
 pip install matplotlib
+```
 Run the analytics script to generate the fill-level charts.
 
 **### 5. User Interface & Notifications**
