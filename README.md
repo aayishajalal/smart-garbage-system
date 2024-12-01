@@ -27,7 +27,7 @@ The **web application** is built with **Next.js** and provides an interactive ma
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/aayishajalal/smart-garbage-system.git
-cd smart-garbage-system
+cd smart-garbage-system```
 
 **### 2. Setting Up the IoT Device (ESP32)**
 Install the required drivers for ESP32.
