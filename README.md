@@ -38,18 +38,15 @@ Configure Firebase to store the data received from the IoT devices.
 **### 3. Frontend Setup (Next.js)**
 Install dependencies:
 ``` bash
-Copy code
 npm install
 ```
 Run the development server:
 ```bash
-Copy code
 npm run dev
 ```
 **### 4. Python Analytics (Matplotlib)**
 Install required Python libraries:
 ```bash
-Copy code
 pip install matplotlib
 ```
 Run the analytics script to generate the fill-level charts.
