@@ -30,12 +30,13 @@ git clone https://github.com/aayishajalal/smart-garbage-system.git
 cd smart-garbage-system
 ```
 
-**### 2. Setting Up the IoT Device (ESP32)**
+### 2. Setting Up the IoT Device (ESP32)
 Install the required drivers for ESP32.
 Upload the embedded C code to the ESP32 board.
 Ensure the IR sensors are connected to the board for sensing data.
 Configure Firebase to store the data received from the IoT devices.
-**### 3. Frontend Setup (Next.js)**
+
+### 3. Frontend Setup (Next.js)
 Install dependencies:
 ``` bash
 npm install
@@ -44,14 +45,15 @@ Run the development server:
 ```bash
 npm run dev
 ```
-**### 4. Python Analytics (Matplotlib)**
+
+### 4. Python Analytics (Matplotlib)
 Install required Python libraries:
 ```bash
 pip install matplotlib
 ```
 Run the analytics script to generate the fill-level charts.
 
-**### 5. User Interface & Notifications**
+### 5. User Interface & Notifications
 The Figma design shows the visualized future version of the application. It includes the notification system for users, private collectors, and different login roles.
 Future Features
 Notification System: Implement strong notifications when garbage collectors arrive at a user's doorstep (within 1km radius).
@@ -61,15 +63,14 @@ Enhanced Data Analytics: Additional insights on garbage collection trends and ro
 
 
 
-**### Acknowledgements**
+### Acknowledgements
 ESP32 for providing an affordable and powerful platform for IoT.
 Firebase for real-time data synchronization and storage.
 Matplotlib for providing easy-to-use data visualization tools.
 Next.js for building fast and interactive web applications.
 markdown
-Copy code
 
-**### Summary of the README Structure:**
+### Summary of the README Structure:
 - **Overview**: A general description of the project and what it does.
 - **Features**: Lists the key functionalities of the system.
 - **Technologies Used**: Describes the core technologies and frameworks used in the project.
