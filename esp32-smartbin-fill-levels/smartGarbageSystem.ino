@@ -6,8 +6,8 @@
 
 
 // Firebase credentials
-#define WIFI_SSID "Aayisha's Vivo"
-#define WIFI_PASSWORD "Aayishaj@2005"
+#define WIFI_SSID "YOUR_HOTSPOT_NAME"
+#define WIFI_PASSWORD "YOUR_HOTSPOT_PASSWORD"
 #define API_KEY "AIzaSyB7ofZHHKeK8APJqLImmlVPqKrAtaezeis"
 #define DATABASE_URL "https://test-a36af-default-rtdb.firebaseio.com/"
 
